@@ -1,6 +1,6 @@
 # imbagas
 # Hi there 👋 , I'm Bagus!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+Saat ini bekerja dengan Otomatisasi Proses Robot, tetapi saya suka mempelajari hal baru dalam pemrograman seperti Javascript, Swift, Python. 
 
 ### Tools:
 <p>
@@ -8,33 +8,36 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/bagusfe" />
+    <img src="https://img.shields.io/npm/v/npm.svg?logo=npm" />
+    <img src="https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+" />
+    <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5">
+    <img src="https://img.shields.io/npm/v/npm.svg?logo=npm">
 </p>
 
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
+     -🔭 Saat ini saya sedang mengerjakan RPA </br>
+     - 🌱 Saat ini saya sedang belajar Python,SwiftUI dan UIKit </br>
+     - 👯 Saya ingin berkolaborasi dalam Proyek Otomasi, Aplikasi Seluler. </br>
+     - 🤔 Saya mencari bantuan untuk master pemrograman. hehe </br>
+     - 💬 Tanyakan padaku tentang apa saja.</br>
+     - 📫 Cara menghubungi saya: <a href="alexjhonson@gmail.com">Kirim email kepada saya!</a> </br>
+     - 😄 Kata ganti: Dia/Dia </br>
+     - ⚡ Fakta menarik: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=imbagas&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbagas&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    <a href="https://bagas.id" target="blank"><img src="https://img.shields.io/badge/Website-https://imbagas.com-green?" /></a>
+    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/bagashz-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://medium.com/@bagasfyh._" target="blank"><img src="https://img.shields.io/badge/bagass-30302f?style=flat&logo=medium" /></a>
+    <a href="https://tw.bagasfhy._.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
+    <a href="e" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </p>
 
 <!--
@@ -42,12 +45,12 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Saat ini saya sedang mengerjakan ...
+- 🌱 Saat ini aku sedang belajar...
+- 👯 Saya ingin berkolaborasi dalam ...
+- 🤔 Saya mencari bantuan dengan ...
+- 💬 Tanyakan padaku tentang ...
+- 📫 Cara menghubungi saya: ...
+- 😄 Kata ganti: ...
+- ⚡ Fakta menarik: ...
 -->
