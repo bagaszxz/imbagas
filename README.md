@@ -1,5 +1,5 @@
 # imbagas
-# Hi there 👋 , I'm Bagus!
+# Hi there 👋 , I'm Bagas!
 Saat ini bekerja dengan Otomatisasi Proses Robot, tetapi saya suka mempelajari hal baru dalam pemrograman seperti Javascript, Swift, Python. 
 
 ### Tools:
@@ -34,7 +34,7 @@ Saat ini bekerja dengan Otomatisasi Proses Robot, tetapi saya suka mempelajari h
 ### Let's connect!
 <p>
     <a href="https://bagas.id" target="blank"><img src="https://img.shields.io/badge/Website-https://imbagas.com-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/bagashz-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://linkedin.bagasfhy._.com" target="blank"><img src="https://img.shields.io/badge/bagashz-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@bagasfyh._" target="blank"><img src="https://img.shields.io/badge/bagass-30302f?style=flat&logo=medium" /></a>
     <a href="https://tw.bagasfhy._.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
     <a href="e" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
